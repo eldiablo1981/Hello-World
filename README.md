@@ -4,10 +4,10 @@ WELCOME TO THE WORLD FOR TRADES :-)
 I'll explain you what this page is for.
 2 Situations what it will be used for:
 
-1- Compare your games with mine (YOU), for trade?
-2- See the games I have (YOU HAVE) to trade at the moment.
-
-It's very simply, you will be able to research through all my games
+1- Compare your games with mine (YOU), for trade?<br>
+2- See the games I have (YOU HAVE) to trade at the moment.<br>
+<br>
+It's very simply, you will be able to research through all my games<br>
 Displaying the results of the SEARCH in a list, that would be SUPER.<br>
 <br>
 <br>
