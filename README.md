@@ -1,19 +1,10 @@
 # WELCOME TO KEY 4 TRADE 😎
- __    __ __    __ ________ <br>
-|  \  /  \  \  |  \        \<br>
-| ▓▓ /  ▓▓ ▓▓  | ▓▓\▓▓▓▓▓▓▓▓<br>
-| ▓▓/  ▓▓| ▓▓__| ▓▓  | ▓▓   <br>
-| ▓▓  ▓▓ | ▓▓    ▓▓  | ▓▓   <br>
-| ▓▓▓▓▓\  \▓▓▓▓▓▓▓▓  | ▓▓   
-| ▓▓ \▓▓\      | ▓▓  | ▓▓   
-| ▓▓  \▓▓\     | ▓▓  | ▓▓   
- \▓▓   \▓▓      \▓▓   \▓▓   
-                            
-                            
-                            
-I'll explain you what this page is for.
-2 Situations what it will be used for:
 
+ 
+<br>
+I'll explain you what this page is for.<br>
+2 Situations what it will be used for:<br>
+<br>
 1- Compare your games with mine (YOU), for trade?<br>
 2- See the games I have (YOU HAVE) to trade at the moment.<br>
 <br>
