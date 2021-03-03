@@ -1,15 +1,16 @@
-# Hello-World
-██╗  ██╗███████╗██╗   ██╗    ██╗  ██╗    ████████╗██████╗  █████╗ ██████╗ ███████╗
-██║ ██╔╝██╔════╝╚██╗ ██╔╝    ██║  ██║    ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔════╝
-█████╔╝ █████╗   ╚████╔╝     ███████║       ██║   ██████╔╝███████║██║  ██║█████╗  
-██╔═██╗ ██╔══╝    ╚██╔╝      ╚════██║       ██║   ██╔══██╗██╔══██║██║  ██║██╔══╝  
-██║  ██╗███████╗   ██║            ██║       ██║   ██║  ██║██║  ██║██████╔╝███████╗
-╚═╝  ╚═╝╚══════╝   ╚═╝            ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-
-                                                                                                                                   
-WELCOME TO KEY 4 TRADE 😎<br>
-
-
+# WELCOME TO KEY 4 TRADE 😎
+ __    __ __    __ ________ 
+|  \  /  \  \  |  \        \
+| ▓▓ /  ▓▓ ▓▓  | ▓▓\▓▓▓▓▓▓▓▓
+| ▓▓/  ▓▓| ▓▓__| ▓▓  | ▓▓   
+| ▓▓  ▓▓ | ▓▓    ▓▓  | ▓▓   
+| ▓▓▓▓▓\  \▓▓▓▓▓▓▓▓  | ▓▓   
+| ▓▓ \▓▓\      | ▓▓  | ▓▓   
+| ▓▓  \▓▓\     | ▓▓  | ▓▓   
+ \▓▓   \▓▓      \▓▓   \▓▓   
+                            
+                            
+                            
 I'll explain you what this page is for.
 2 Situations what it will be used for:
 
@@ -47,7 +48,7 @@ But it will be very easy to modify them with yours. (MAX 20 Seconds)<br>
 <br>
 ┏(-_-)┛ YOU WANT THE SAME WEBSITE? ┗(-_-)┓<br>
 YOUR NAME-K4T.Netlify.app<br>
-<br>TAKE A LOOK : https://word-of-trades.netlify.app<br>
+TAKE A LOOK : https://word-of-trades.netlify.app<br>
 <br>
 
 So now it's up to us.<br>
